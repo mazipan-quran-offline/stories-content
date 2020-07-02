@@ -8,34 +8,29 @@
   "components": [
     {
       "type": "heading",
-      "text": "More to read"
+      "text": "Selengkapnya"
     },
     {
       "type": "small",
-      "title": "Learn about cats",
-      "url": "https://wikipedia.org/wiki/Cat",
-      "image": "assets/bookend_cats.jpg"
+      "title": "Al-Baqarah 45",
+      "url": "https://www.baca-quran.id/2/45/"
     },
     {
-      "type": "landscape",
-      "title": "Learn about border collies",
-      "url": "https://wikipedia.org/wiki/Border_Collie",
-      "image": "assets/bookend_dogs.jpg",
-      "category": "Dogs"
+      "type": "small",
+      "title": "Al-Baqarah 155",
+      "url": "https://www.baca-quran.id/2/155/"
     },
     {
-      "type": "portrait",
-      "title": "Learn about macaws",
-      "url": "https://wikipedia.org/wiki/Macaw",
-      "image": "assets/bookend_birds.jpg",
-      "category": "birds"
+      "type": "small",
+      "title": "Al-Nahl 126",
+      "url": "https://www.baca-quran.id/16/126/"
     },
     {
       "type": "cta-link",
       "links": [
         {
-          "text": "Learn more",
-          "url": "https://www.ampproject.org/stories/"
+          "text": "Mari Baca Quran",
+          "url": "https://www.baca-quran.id/"
         }
       ]
     }
