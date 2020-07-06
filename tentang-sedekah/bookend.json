@@ -1,0 +1,29 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "Selengkapnya"
+    },
+    {
+      "type": "small",
+      "title": "Baca Surat Al-Baqarah Ayat 261",
+      "url": "https://www.baca-quran.id/2/261/",
+      "image": "https://www.baca-quran.id/star-logo-color-64.png"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Kembali ke Beranda",
+          "url": "https://www.baca-quran.id/stories/"
+        }
+      ]
+    }
+  ]
+}
